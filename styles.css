@@ -2,10 +2,10 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 10px;
-  background-color: #264653;
-  font-size: 16px;
+  background-color: #dfc21c;
+  font-size: 20px;
   line-height: 1.5;
-  color: #e9c46a;
+  color: #be4d0c;
 }
 
 h1 {
@@ -13,12 +13,12 @@ h1 {
   font-size: 36px;
   margin-bottom: 0px;
   margin-top: 20px;
-  color: #e9c46a;
+  color: #659633;
   font-family: Arial, sans-serif;
 }
 
 .icon {
-  font-size: 40px;
+  font-size: 50px;
   display: block;
 }
 
@@ -37,7 +37,8 @@ label {
   font-weight: bold;
   margin-bottom: 10px;
   font-family: Arial, sans-serif;
-  color: #e9c46a;
+  color: #2d60ad;
+  font-size: 34px;
 }
 
 input[type="text"] {
@@ -45,7 +46,7 @@ input[type="text"] {
   box-sizing: border-box;
   padding: 10px;
   font-size: 16px;
-  border: 1px solid #333333;
+  border: 1px solid #cdc0c0;
   border-radius: 4px;
   margin-bottom: 10px;
 }
@@ -56,11 +57,12 @@ button[type="submit"] {
   width: 100%;
   padding: 10px;
   font-size: 16px;
-  background-color: #e76f51;
+  background-color: #0eb5c7;
   color: #ffffff;
   border: none;
   cursor: pointer;
   border-radius: 4px;
+  font-size: larger;
 }
 
 button:hover,
